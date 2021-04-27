@@ -8,6 +8,7 @@ Asset Link
 https://drive.google.com/drive/folders/1NgXEfPnsBJpa3kK0-7a79z5twqfrXyn7?usp=sharing
  - Unity File / Assets 하위 폴더에 저장
  * Scenes Package File은 Scenes 하위 폴더에 저장
+ - Scenes_File_NotPackage 폴더 내부에는 수정 중인 Scene이 있고, 패키지화 시키지 않고 그냥 Scene파일로 저장한 파일입니다.
 
 File Link
 https://drive.google.com/drive/folders/1HMtMGwCQDD2ZKwRKc6fLICfQEhVd9rcP?usp=sharing
