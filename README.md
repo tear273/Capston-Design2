@@ -14,3 +14,7 @@ File Link
 https://drive.google.com/drive/folders/1HMtMGwCQDD2ZKwRKc6fLICfQEhVd9rcP?usp=sharing
  - 문서 파일 업로드 공간
  - 기획서 / 계획서 등의 문서 등록
+
+
+### YouTube Link
+https://youtu.be/h_LOpxMXNmw
